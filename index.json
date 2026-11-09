@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "finch",
+  "versions": [
+    {
+      "commit": "3f4bb5c06f497ebf415ad41e80eb65f0202f6bfc",
+      "tag": "",
+      "parsed_at": "2026-11-09T15:16:25.255445+00:00"
+    }
+  ]
+}
