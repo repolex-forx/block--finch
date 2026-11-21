@@ -308,7 +308,107 @@
         "aggregate/ast/3f4bb5c06f497ebf415ad41e80eb65f0202f6bfc/chunk-001.nq.gz"
       ],
       "repolex": "aggregate/repolex/3f4bb5c06f497ebf415ad41e80eb65f0202f6bfc/chunk-001.nq.gz",
-      "tag": "main"
+      "tag": "main",
+      "lsp": "aggregate/lsp/3f4bb5c06f497ebf415ad41e80eb65f0202f6bfc.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "github.com/alexflint/go-arg",
+          "ecosystem": "GO",
+          "version": "1.4.3",
+          "githubOrg": "alexflint",
+          "githubRepo": "go-arg",
+          "githubCommit": "f0f44b65d1179ccedb4c56f493f97ec569a6654e",
+          "githubTag": "v1.4.3",
+          "githubUrl": "https://github.com/alexflint/go-arg",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/dustin/go-humanize",
+          "ecosystem": "GO",
+          "version": "1.0.0",
+          "githubOrg": "dustin",
+          "githubRepo": "go-humanize",
+          "githubCommit": "9f541cc9db5d55bce703bd99987c9d5cb8eea45e",
+          "githubTag": "v1.0.0",
+          "githubUrl": "https://github.com/dustin/go-humanize",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-ini/ini",
+          "ecosystem": "GO",
+          "version": "1.67.0",
+          "githubOrg": "go-ini",
+          "githubRepo": "ini",
+          "githubCommit": "b2f570e5b5b844226bbefe6fb521d891f529a951",
+          "githubTag": "v1.67.0",
+          "githubUrl": "https://github.com/go-ini/ini",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-mysql/errors",
+          "ecosystem": "GO",
+          "version": "0.0.0-20180603193453-03314bea68e0",
+          "githubOrg": "go-mysql",
+          "githubRepo": "errors",
+          "githubUrl": "https://github.com/go-mysql/errors",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-sql-driver/mysql",
+          "ecosystem": "GO",
+          "version": "1.7.1",
+          "githubOrg": "go-sql-driver",
+          "githubRepo": "mysql",
+          "githubCommit": "f20b2863636093e5fbf1481b59bdaff3b0fbb779",
+          "githubTag": "v1.7.1",
+          "githubUrl": "https://github.com/go-sql-driver/mysql",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-test/deep",
+          "ecosystem": "GO",
+          "version": "1.0.8",
+          "githubOrg": "go-test",
+          "githubRepo": "deep",
+          "githubCommit": "3026925edefd8a1125321a9b7d4bce573496b35d",
+          "githubTag": "v1.0.8",
+          "githubUrl": "https://github.com/go-test/deep",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/rs/xid",
+          "ecosystem": "GO",
+          "version": "1.4.0",
+          "githubOrg": "rs",
+          "githubRepo": "xid",
+          "githubCommit": "66f8c42da230c3323ed4e29805e73eefbad41fc5",
+          "githubTag": "v1.4.0",
+          "githubUrl": "https://github.com/rs/xid",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/alexflint/go-scalar",
+          "ecosystem": "GO",
+          "version": "1.1.0",
+          "githubOrg": "alexflint",
+          "githubRepo": "go-scalar",
+          "githubCommit": "fd60e966956efb1720cbfbf449fb55971209b2db",
+          "githubTag": "v1.1.0",
+          "githubUrl": "https://github.com/alexflint/go-scalar",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/stretchr/testify",
+          "ecosystem": "GO",
+          "version": "1.8.0",
+          "githubOrg": "stretchr",
+          "githubRepo": "testify",
+          "githubCommit": "181cea6eab8b2de7071383eca4be32a424db38dd",
+          "githubTag": "v1.8.0",
+          "githubUrl": "https://github.com/stretchr/testify",
+          "source": "build_file:go.mod"
+        }
+      ]
     }
   ],
   "commit": "commit/commit.nq.gz",
