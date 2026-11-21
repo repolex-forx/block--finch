@@ -38,6 +38,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── ast
 │   │   └── 3f4bb5c06f497ebf415ad41e80eb65f0202f6bfc
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── 3f4bb5c06f497ebf415ad41e80eb65f0202f6bfc.nq.gz
 │   └── repolex
 │       └── 3f4bb5c06f497ebf415ad41e80eb65f0202f6bfc
 │           └── chunk-001.nq.gz
@@ -238,10 +240,9 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
     ├── a6769d3fb4d04c1006784e73a80b216040cdf63d.nq.gz
     ├── a90eea85f6f7bded69ff5d40114447a6d8b48cfe.nq.gz
     ├── a9690dcf97c65f4f0885e6c8d5ec412973f1ebf7.nq.gz
-    ├── a9fe8e7e21c2d623b572e5e69b164756b3182b5d.nq.gz
-    └── aa0d88f7b930331871c04ffe334a417435db8c13.nq.gz
+    └── a9fe8e7e21c2d623b572e5e69b164756b3182b5d.nq.gz
 
-7 directories, 200 files
+8 directories, 200 files
 ```
 
 | Directory | What it contains |
@@ -262,4 +263,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [block/finch](https://github.com/block/finch)
 
 ---
-*Parsed on 2026-11-09 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-21 by [repolex](https://repolex.ai)*
