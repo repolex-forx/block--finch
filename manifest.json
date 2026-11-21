@@ -408,7 +408,8 @@
           "githubUrl": "https://github.com/stretchr/testify",
           "source": "build_file:go.mod"
         }
-      ]
+      ],
+      "dep": "dep/3f4bb5c06f497ebf415ad41e80eb65f0202f6bfc.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
